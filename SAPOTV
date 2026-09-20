@@ -1,4 +1,4 @@
-#EXTM3U url="https://pastebin.com/raw/KVsXV71R"
+#EXTM3U
 #EXTINF:-1 group-title="-",L1 MAX
 http://190.93.229.30:8000/play/a0jr/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX
