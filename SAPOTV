@@ -4,7 +4,7 @@
 http://190.93.229.30:8000/play/a0jr/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX
 http://38.190.100.202:8000/play/a013/index.m3u8
-#EXTINF:-1,L1 MAX
+#EXTINF:-1 group-title="-",L1 MAX
 http://38.190.4.166:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX
 http://177.53.152.117:8000/play/a0b3/index.m3u8
@@ -46,11 +46,11 @@ http://38.210.105.10:8000/play/a0gv/index.m3u8
 http://200.37.149.6:8000/play/a0oa/index.m3u8
 #EXTINF:-1 group-title="-",(mov) Liga 1 Max HD
 http://200.37.149.6:8000/play/a0sk/index.m3u8
-#EXTINF:-1,7: LIGA 1 MAX (NEXT F)
+#EXTINF:-1,group-title="-",LIGA 1 MAX (NEXT F)
 http://38.52.200.209:8000/play/a07n/index.m3u8
-#EXTINF:-1,9: L1 MAX nagraSAT
+#EXTINF:-1group-title="-",L1 MAX nagraSAT
 http://38.52.200.209:8000/play/a08i/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="-",America TV HD
 http://181.224.200.5:2277/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="-",DEPORTES 4K
 http://190.83.9.222:8000/play/ca090/index.m3u8
@@ -64,9 +64,9 @@ http://190.83.9.222:8000/play/ca040/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD
 http://190.105.128.198:5800/play/a05p/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="-",America TV HD
 http://38.210.3.64:8090/play/a0bw/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="-",America TV HD
 http://181.224.200.5:2277/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="-",CARACOL-ENCODER-67
 http://181.225.73.159:8000/play/a0ae/index.m3u8
@@ -154,9 +154,9 @@ http://181.119.108.43:9001/play/a0nc/index.m3u8
 http://181.119.108.43:9001/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",IXP 1.127 TELEMUNDO MIAMI
 http://181.119.108.43:9001/play/a044/index.m3u8
-#EXTINF:-1, 1: LIGA 1 MAX
+#EXTINF:-1 group-title="-",LIGA 1 MAX
 http://38.52.200.209:8000/play/a069/index.m3u8
-#EXTINF:-1, T01 TVPeru 7.3
+#EXTINF:-1 group-title="-",TVPeru 7.3
 http://38.52.200.209:8000/play/a02d/index.m3u8
 #EXTINF:-1, T01- IPe
 http://38.52.200.209:8000/play/a02e/index.m3u8
